@@ -4,4 +4,4 @@ Bacterial isolates were obtained from the guts of wild threespine stickleback (G
 
 The repository is organized into five folders, each corresponding to a major experimental dataset: Lipase, Esterase, Biofilm, FTIR, and XPS.
 
-Stickleback strain identifications have been deposited in GenBank under Accession Number PX470357 and Submission Number SUB15724881.
+Stickleback strain identifications have been deposited in GenBank under Accession Numbers PX470357 and PX519477 - PX519659.
